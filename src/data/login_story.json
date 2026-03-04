@@ -1,0 +1,8 @@
+{
+  "feature": "Login",
+  "acceptanceCriteria": [
+    "User can log in with valid username",
+    "User cannot log in with invalid credentials",
+    "User sees error message for empty fields"
+  ]
+}
